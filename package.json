@@ -20,7 +20,7 @@
   "main": "index.js",
   "dependencies": {
     "bluebird": "^2.3.11",
-    "faye": "1.2.3",
+    "faye": "^1.2.3",
     "lodash": "^3.10.1",
     "mime": "1.4.1",
     "request": "2.81.0"
